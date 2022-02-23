@@ -1,0 +1,41 @@
+header{
+    background-image: url(/images/Rectangle\ 1.png);
+    /* height: 100vh; */
+    color: whitesmoke;
+    /* width: 100vw; */
+    width: 100%;
+}
+
+.header-btn{
+    border: 1px solid whitesmoke;
+    border-radius: 15px;
+    color: white;
+}
+
+.header-btn:hover{
+    background-color: whitesmoke;
+    color: black;
+}
+
+.search-button{
+    background-color: #1BC768;
+    border-radius: 15px;
+}
+
+.search-button:hover{
+    background-color: orangered;
+    color: white;
+}
+
+.my-header{
+    color: #043CAA;
+    font-weight: 900;
+}
+
+.my-linebreak{
+    /* background-color: #1BC768; */
+    background: linear-gradient(to right, #043CAA 40%, #1BC768 60%);
+    height: 5px;
+    width: 10%;
+    margin: auto;
+}
