@@ -17,6 +17,10 @@ header{
     color: black;
 }
 
+.footer-btn{
+    background-color: #1BC768;
+}
+
 .search-button{
     background-color: #1BC768;
     border-radius: 15px;
@@ -53,4 +57,20 @@ main{
 
 .testimonial{
     text-align: justify;
+}
+
+footer{
+    background-color: #043CAA;
+    color: whitesmoke;
+    font-weight: 200;
+}
+
+footer a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+footer a:hover{
+    text-decoration: underline;
+    color: coral;
 }
