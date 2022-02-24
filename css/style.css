@@ -50,3 +50,7 @@ header{
 main{
     background-color: #F3F7FF;
 }
+
+.testimonial{
+    text-align: justify;
+}
